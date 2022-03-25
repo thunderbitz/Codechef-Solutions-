@@ -1,5 +1,25 @@
 # Codechef-Solutions
-## March Long Challenge
+
+## March Long Challenge 2
+#|Problem Solution|
+|--|----- |  
+1 | <a href="https://thunderbitz.com/increase-iq-codechef-solution/">Increase IQ Codechef Solution </a>
+2 | <a href="https://thunderbitz.com/the-three-topics-codechef-solution/">The Three Topics Codechef Solution </a>
+3 | <a href="https://thunderbitz.com/chef-and-races-codechef-solution/">Chef and Races Codechef Solution </a>
+4 | <a href="https://thunderbitz.com/the-rating-dilemma-codechef-solution/">The Rating Dilemma Codechef Solution </a>
+5 | <a href="https://thunderbitz.com/missing-numbers-codechef-solution/">Missing Numbers Codechef Solution </a>
+6 | <a href="https://thunderbitz.com/same-parity-swaps-in-binary-strings-codechef-solution/">Same Parity Swaps in Binary Strings Codechef Solution </a>
+7 | <a href="https://thunderbitz.com/minimum-longest-substring-codechef-solution/">Minimum Longest Substring Codechef Solution </a>
+8 | <a href="https://thunderbitz.com/kostomuksha-and-aesc-msu-codechef-solution/">Kostomuksha and AESC MSU Codechef Solution</a>
+9 | <a href="https://thunderbitz.com/perfect-imperfections-2-codechef-solution/">Perfect Imperfections 2 Codechef Solution</a>
+ 
+
+
+
+
+
+
+## March Long Challenge 1
 #|Problem Solution|
 |--|----- |  
 1 | <a href="https://thunderbitz.com/discus-throw-codechef-solution/">discus throw codechef solution</a>
