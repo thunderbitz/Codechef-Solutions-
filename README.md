@@ -1,5 +1,21 @@
 # Codechef-Solutions
 
+## April Long Challenge 1
+#|Problem Solution|
+|--|----- |  
+1 | <a href="https://thunderbitz.com/yet-another-mex-problem-codechef-solution/">yet another mex problem codechef solution</a>
+2 | <a href="https://thunderbitz.com/bullets-and-enemies-codechef-solution/">bullets-and-enemies-codechef-solution</a>
+3 | <a href="https://thunderbitz.com/min-max-equality-codechef-solution/">min-max-equality-codechef-solution</a>
+4 | <a href="https://thunderbitz.com/pairwise-xors-codechef-solution/">pairwise-xors-codechef-solution</a>
+5 | <a href="https://thunderbitz.com/dazzling-axnodr-challenge-codechef-solution/">dazzling-axnodr-challenge-codechef-solution</a>
+6 | <a href="https://thunderbitz.com/prime-sum-codechef-solution/">prime-sum-codechef-solution</a>
+7 | <a href="https://thunderbitz.com/dazzling-gcd-pair-codechef-solution/">exact marks codechef solution</a>
+8 | <a href="https://thunderbitz.com/the-cooler-dilemma-2-codechef-solution/">the-cooler-dilemma-2-codechef-solution</a>
+9 | <a href="https://thunderbitz.com/the-cooler-dilemma-1-codechef-solution/">the-cooler-dilemma-1-codechef-solution</a>
+10 | <a href="https://thunderbitz.com/ezio-and-guards-codechef-solution/">ezio-and-guards-codechef-solution/</a>
+
+
+
 ## March Long Challenge 2
 #|Problem Solution|
 |--|----- |  
